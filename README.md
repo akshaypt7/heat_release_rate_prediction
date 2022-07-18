@@ -1,1 +1,1 @@
-# heat_release_rate_prediction
+# heat_release_rate_prediction_using_rnn_&_cnn
